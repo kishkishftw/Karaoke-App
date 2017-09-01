@@ -1,0 +1,6 @@
+framework module Pods_KaraokeApp {
+  umbrella header "Pods-KaraokeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

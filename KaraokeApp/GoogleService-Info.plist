@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>785860569142-16td6rrdc5dhpgqeln6r0aohucva9n9g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.785860569142-16td6rrdc5dhpgqeln6r0aohucva9n9g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdC6KK5st6rSkVYKYNNRXN5eTnhdDGcFk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>785860569142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kish.KaraokeApp</string>
+	<key>PROJECT_ID</key>
+	<string>karaokeapp-ff04c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>karaokeapp-ff04c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:785860569142:ios:44552003c11103b4</string>
+	<key>DATABASE_URL</key>
+	<string>https://karaokeapp-ff04c.firebaseio.com</string>
+</dict>
+</plist>
